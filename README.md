@@ -1,4 +1,6 @@
 # mic_manager_app
 A Python package that allows to manage your mic state and it notifies you.
 
-Do not forget to run "pip install git+github.com/AhmedCemil/thread_manager" command!
+Do not forget to run "pip install git+github.com/AhmedCemil/thread_manager" command to run python code!
+
+Install MicManagerAppByACB folder and run MicManagerAppByACB.exe file. Simple.
