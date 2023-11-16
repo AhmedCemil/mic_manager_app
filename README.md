@@ -1,6 +1,9 @@
 # mic_manager_app
 A Python package that allows to manage your mic state and it notifies you.
+
 You may change mic state via this program or whatever you choose. It detecs the state changes.
+
+Compatible with both windows 10 and 11. CMD window appears only in Windows 11. It minimized at start.
 
 Do not forget to run "pip install git+github.com/AhmedCemil/thread_manager" command to run python code!
 
