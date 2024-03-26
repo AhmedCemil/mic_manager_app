@@ -9,6 +9,8 @@ Do not forget to run "pip install git+github.com/AhmedCemil/thread_manager" comm
 
 Install MicManagerAppByACB folder and run MicManagerAppByACB.exe file. Simple.
 
+With ver 2.0 we get rid of the cmd screen in windows 11. It was tested on Windows 10 22H2 and Windows 11 23H2 and was successful.
+
 Screenshots:
 
 ![Systray](https://github.com/AhmedCemil/mic_manager_app/assets/70539255/3aa080e2-6110-414e-893e-4bd3bb073497)
